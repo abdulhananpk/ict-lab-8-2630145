@@ -1,0 +1,18 @@
+ICT Lab 8 - Git basics
+
+Git is the version-control tool on my computer. GitHub stores Git repositories online.
+
+git status
+Shows which files are changed, staged, or untracked.
+
+git add <file>
+Stages a file so it can be included in the next commit.
+
+git commit -m "message"
+Saves staged changes as a snapshot with a message.
+
+git push origin main
+Uploads my main-branch commits to GitHub.
+
+git log --oneline
+Shows the commit history in a short format.
