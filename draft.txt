@@ -1,0 +1,6 @@
+Draft: Keeping my ICT lab work organized
+
+- Keep each lab's files inside its repository folder.
+- Use clear file names so each document is easy to find.
+- Check git status before staging changes.
+- Write a short, accurate message for every commit.
