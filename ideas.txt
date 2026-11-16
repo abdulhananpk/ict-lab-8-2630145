@@ -1,0 +1,5 @@
+Ideas for future improvements
+
+- Add a short glossary for new Git commands.
+- Practice making a branch before changing a file.
+- Keep a simple change log for future ICT lab work.
